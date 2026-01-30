@@ -14,9 +14,9 @@
 I’m a **M.Sc Data Science Student at MIT ACSC Alandi (CGPA: 9.2)** building **Comprehensive Data Science Projects** and exploring the intersection of  
 **AI, Statistics, cloud, and scalable software engineering**.
 
-- 🎓 **M.Sc Data Science Student @ MIT Alandi (CGPA: 9.2)**
-- 💼 **Internship:** Microsoft & Edunet Foundation — *AI Internship (April 2025)*
-- 🧠 **Exploring:** AI Consulting, LLMs, SaaS Development, Quantitative Development, Data Science, MLOps
+- 🎓 **M.Sc Data Science Student @ MIT Alandi (CGPA: 8.83)**
+
+- 🧠 **Exploring:** AI Consulting, LLMs, Quantitative Development, Data Science, MLOps
 - 🌏 **Location:** Pune, Maharashtra, India
 
 ---
