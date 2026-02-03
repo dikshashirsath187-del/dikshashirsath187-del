@@ -1,11 +1,11 @@
 # 👋 Heyyyy , I'm Diksha Shirsath  
 
-### 🚀 *Tech Enthusiast | Data Science & Data Analyst | AI & Statistics Explorer*  
+### 🚀 *Tech Enthusiast | Data Science & Data Analyst | AI & Statistics
+![Profile Views](https://komarev.com/ghpvc/?username=dikshashirsath187&label=Profile%20Views&color=blue&style=flat)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=nehak1122&label=Profile%20Views&color=blue&style=flat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Khetawat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nehakhetawat/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://mac-os-portfolio-one-delta.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-nehak1122-black?style=flat&logo=github)](https://github.com/nehak1122)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diksha%20Shirsath-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diksha-shirsath-80528b376/)
+[![GitHub](https://img.shields.io/badge/GitHub-dikshashirsath187-black?style=flat&logo=github)](https://github.com/dikshashirsath187)
+
 
 ---
 
